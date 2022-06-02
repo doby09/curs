@@ -10,7 +10,7 @@ public class Main {
         List<Persoana> persoane = new ArrayList<>();
         persoane.add(new Student("florin", "ionel", 29, 9.3));
         persoane.add(new Persoana("Flesar", "Radu", 31));
-        persoane.add(new Student("Florinel", "Ionel", 30, 10, "Stiinte economice"));
+        persoane.add(new Student("Ion", "Ionel", 30, 10, "Stiinte economice"));
 
 
         int sumaVarste = 0;
